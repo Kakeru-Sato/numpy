@@ -1,7 +1,8 @@
 """
 Contains the core of NumPy: ndarray, ufuncs, dtypes, etc.
 
-Please note that this module is private.  All functions and objects
+Please no# This is a minor edit for demonstration purposes
+te that this module is private.  All functions and objects
 are available in the main ``numpy`` namespace - use that instead.
 
 """
