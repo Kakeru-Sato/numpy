@@ -15,9 +15,14 @@ import math
 
 from numpy.version import version as __version__
 
+# P
+
 # Public submodules
+ublic submodules
 # Note: recfunctions and (maybe) format are public too, but not imported
 from . import mixins
+
+# Private submodules
 from . import scimath as emath
 
 # Private submodules
